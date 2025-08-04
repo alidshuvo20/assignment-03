@@ -11,7 +11,7 @@ for (var day = 1; day <= lastDay; day++) {
     output += day + ' - rest\n';
   }
 }
-console.log('For Value:', lastDay, '\nOutput:\n' + output);
+console.log('\nFor Value:', lastDay, '\nOutput:\n' + output);
 
 //For Last Day= 6
 var lastDay = 6;
@@ -24,7 +24,7 @@ for (var day = 1; day <= lastDay; day++) {
     output += day + ' - rest\n';
   }
 }
-console.log('For Value:', lastDay, '\nOutput:\n' + output);
+console.log('\nFor Value:', lastDay, '\nOutput:\n' + output);
 
 //node pro03.js (Run in terminal)
 

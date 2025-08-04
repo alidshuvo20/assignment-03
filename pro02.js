@@ -12,7 +12,7 @@ if (money1 >= 25000) {
 } else {
   buy = 'Chocolate';
 }
-console.log('Money1(45000)', buy);
+console.log('\nMoney:', money1, 'Output:', buy);
 
 // For Money2
 if (money2 >= 25000) {
@@ -22,7 +22,7 @@ if (money2 >= 25000) {
 } else {
   buy = 'Chocolate';
 }
-console.log('Money2(10000)', buy);
+console.log('Money:', money2, 'Output:', buy);
 
 // For Money3
 if (money3 >= 25000) {
@@ -32,10 +32,10 @@ if (money3 >= 25000) {
 } else {
   buy = 'Chocolate';
 }
-console.log('Money3(9999)', buy);
+console.log('Money:', money3, 'Output:', buy);
 
 //node pro02.js (Run in terminal)
 
-// Money1(45000) Laptop
-// Money2(10000) Cycle
-// Money3(9999) Chocolate
+// Money1(45000) Output: Laptop
+// Money2(10000) Output: Cycle
+// Money3(9999)  Output: Chocolate

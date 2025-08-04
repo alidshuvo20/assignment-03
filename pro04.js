@@ -20,6 +20,7 @@ console.log(
 );
 
 // Problem 04 (REAL)- Delete/Store Files
+console.log('\n\n(The Real Part Starts)');
 var fileNames = [
   'result.pdf',
   'data.docx',
@@ -47,13 +48,16 @@ for (var i = 0; i < fileNames.length; i++) {
   console.log('\nValue:', fileName, '\nOutput:', action);
 }
 
-//node pro05.js (Run in terminal)
+//node pro04.js (Run in terminal)
 
 //((->(For Test Practice(Value: pdfData.jpg Output: Delete)<-))
 //Value: pdfData.jpg
 //Output: Delete
 
 // Problem 04 (REAL)- Delete/Store Files
+
+//(The Real Part Starts)
+
 //Value: result.pdf
 //Output: Store
 

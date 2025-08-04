@@ -5,7 +5,7 @@
 var experience = 30;
 var startingSalary = 45000;
 var currentSalary = startingSalary;
-
+var year;
 // Increment 5% every year
 for (var year = 1; year <= experience; year++) {
   currentSalary = currentSalary * 1.05;
@@ -14,8 +14,8 @@ for (var year = 1; year <= experience; year++) {
 currentSalary = Math.round(currentSalary * 100) / 100;
 
 console.log(
-  'Value (startingSalary',
-  startingSalary + ') (experience',
+  '\nValue (startingSalary:',
+  startingSalary + ') (experience:',
   experience + ') \nOutput:',
   currentSalary
 );
@@ -26,7 +26,7 @@ console.log(
 var experience = 3;
 var startingSalary = 15000;
 var currentSalary = startingSalary;
-
+var year;
 // Increment 5% every year
 for (var year = 1; year <= experience; year++) {
   currentSalary = currentSalary * 1.05;
@@ -35,8 +35,8 @@ for (var year = 1; year <= experience; year++) {
 currentSalary = Math.round(currentSalary * 100) / 100;
 
 console.log(
-  'Value (startingSalary',
-  startingSalary + ') (experience',
+  '\nValue (startingSalary:',
+  startingSalary + ') (experience:',
   experience + ') \nOutput:',
   currentSalary
 );
@@ -47,7 +47,7 @@ console.log(
 var experience = 40;
 var startingSalary = 30000;
 var currentSalary = startingSalary;
-
+var year;
 // Increment 5% every year
 for (var year = 1; year <= experience; year++) {
   currentSalary = currentSalary * 1.05;
@@ -56,8 +56,8 @@ for (var year = 1; year <= experience; year++) {
 currentSalary = Math.round(currentSalary * 100) / 100;
 
 console.log(
-  'Value (startingSalary',
-  startingSalary + ') (experience',
+  '\nValue (startingSalary:',
+  startingSalary + ') (experience:',
   experience + ') \nOutput:',
   currentSalary
 );
