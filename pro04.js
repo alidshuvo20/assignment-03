@@ -19,7 +19,7 @@ console.log(
   action
 );
 
-// Problem 04 - Delete/Store Files
+// Problem 04 (REAL)- Delete/Store Files
 var fileNames = [
   'result.pdf',
   'data.docx',
@@ -47,4 +47,30 @@ for (var i = 0; i < fileNames.length; i++) {
   console.log('\nValue:', fileName, '\nOutput:', action);
 }
 
-//node pro04.js (Run in terminal)
+//node pro05.js (Run in terminal)
+
+//((->(For Test Practice(Value: pdfData.jpg Output: Delete)<-))
+//Value: pdfData.jpg
+//Output: Delete
+
+// Problem 04 (REAL)- Delete/Store Files
+//Value: result.pdf
+//Output: Store
+
+//Value: data.docx
+//Output: Store
+
+//Value: pdfData.jpg
+//Output: Delete
+
+//Value: #exp.mp4
+//Output: Store
+
+//Value: docx.txt
+//Output: Delete
+
+//Value: docx.xpdf
+//Output: Delete
+
+//Value: slipdf.txt
+//Output: Delete
