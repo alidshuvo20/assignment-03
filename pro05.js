@@ -1,8 +1,8 @@
-//PH Email Generator
+//Problem 05 PH Email Generator
 
 var student1 = { name: 'jhankar', roll: 1014, department: 'cse' };
 console.log(
-  student1.name + student1.roll + '.' + student1.department + '@ph.ac.bd'
+  '\n' + student1.name + student1.roll + '.' + student1.department + '@ph.ac.bd'
 );
 var student2 = { name: 'monu', roll: 99, department: 'eee' };
 console.log(

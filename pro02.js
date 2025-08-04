@@ -1,4 +1,4 @@
-//Cycle or  Laptop
+//Problem - 02 Cycle or  Laptop
 var money1 = 45000;
 var money2 = 10000;
 var money3 = 9999;

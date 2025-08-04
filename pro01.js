@@ -1,4 +1,4 @@
-//Divide the Asset
+//Problem - 01 Divide the Asset
 
 var area1 = 100;
 var area2 = 15;

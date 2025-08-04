@@ -1,4 +1,4 @@
-//Medicine Planner
+//Problem 03 Medicine Planner
 
 //For Last Day= 4
 var lastDay = 4;

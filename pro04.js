@@ -1,4 +1,4 @@
-//Delete / Store
+//Problem 04 Delete / Store
 
 var fileName = 'pdfData.jpg';
 var action;
@@ -19,7 +19,7 @@ console.log(
   action
 );
 
-// Problem 04 (REAL)- Delete/Store Files
+//  (REAL)- Delete/Store Files
 console.log('\n\n(The Real Part Starts)');
 var fileNames = [
   'result.pdf',

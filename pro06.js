@@ -1,4 +1,4 @@
-//Current Salary
+//Problem 06 Current Salary
 
 // Problem 06 - Current Salary Calculation
 //1st Example
